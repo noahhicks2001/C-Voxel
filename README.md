@@ -7,8 +7,6 @@ CONTROLS: \
   a-> move left \
   s-> move down  \
   d-> move right \
-  q-> zoom out   \
-  e-> zoom in   \
   u,j -> rotation around x-axis \
   h,k -> rotation around z-axis \
   y,i -> rotation around y-axis \
