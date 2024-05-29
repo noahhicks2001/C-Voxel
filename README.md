@@ -1,7 +1,8 @@
 
 # C-Voxel
-<pre>
 WIP voxel rendering engine created in C using SDL2
+<pre>
+
 
 
 CONTROLS: 
