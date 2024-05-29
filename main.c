@@ -515,7 +515,7 @@ void init_sdl(SDL_Renderer** renderer, SDL_Window** window, int screen_width,
         printf("INIT ERROR\n");
     }
 
-    *window = SDL_CreateWindow("Synth", SDL_WINDOWPOS_UNDEFINED,
+    *window = SDL_CreateWindow("Voxel", SDL_WINDOWPOS_UNDEFINED,
         SDL_WINDOWPOS_UNDEFINED, screen_width, screen_height, SDL_WINDOW_OPENGL);
 
     if (*window == NULL) {
