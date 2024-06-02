@@ -507,7 +507,10 @@ void handle_input(SDL_Event* event, State* state, Voxel* voxels) {
  
 }
    
-
+/*
+init code referenced from 
+https://lazyfoo.net/tutorials/SDL/01_hello_SDL/index2.php
+*/
 void init_sdl(SDL_Renderer** renderer, SDL_Window** window, int screen_width,
     int screen_height) {
 
