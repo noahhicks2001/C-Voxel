@@ -26,6 +26,4 @@ CONTROLS:
     t -> scale up  
     arrow_left,arrow_right -> change selected voxel
 
-TODO:
-    -> fix struct namespace pollution
   </pre>
